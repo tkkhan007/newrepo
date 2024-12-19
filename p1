@@ -1,2 +1,4 @@
-# Hello World Program in Python
-print("Hello, World!")
+abap program
+REPORT zhello_world.
+
+WRITE: 'Hello, World!'.
